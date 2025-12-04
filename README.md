@@ -10,9 +10,6 @@ A real-time **NYC Transit Dashboard** built with **Python + Dash**, featuring:
 - Dynamic route selector with PNG maps stored under /assets
 - Deployable locally or on **Hugging Face Spaces**
 
-> This repository includes **documentation + dataset + step-by-step instructions**, meeting academic submission requirements.
-
-
 ## Product Scope
 
 This dashboard is designed to provide real-time visibility into NYC transit flow using live traffic feeds and simulated detection metrics.  
