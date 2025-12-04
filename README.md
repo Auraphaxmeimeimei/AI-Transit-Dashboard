@@ -104,7 +104,7 @@ This dataset supports visualization, ETA and delay inference. When YOLO/GTFS sou
 | Source             | Purpose                               | Link                                                                                                                   |
 | ------------------ | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | NY 511 DOT Cameras | Live highway streaming（public access） | [https://511ny.org](https://511ny.org)                                                                                 |
-| wttr.in            | Real-time weather API，无需 key          | [https://wttr.in](https://wttr.in)                                                                                     |
+| wttr.in            | Real-time weather API，no key required          | [https://wttr.in](https://wttr.in)                                                                                     |
 | NYTimes RSS Feed   | NYC region news feed                  | [https://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml](https://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml) |
 
 
