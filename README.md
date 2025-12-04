@@ -12,6 +12,35 @@ A real-time **NYC Transit Dashboard** built with **Python + Dash**, featuring:
 
 > This repository includes **documentation + dataset + step-by-step instructions**, meeting academic submission requirements.
 
+
+## Product Scope
+
+This dashboard is designed to provide real-time visibility into NYC transit flow using live traffic feeds and simulated detection metrics.  
+The scope focuses on monitoring traffic volume, generating basic ETA and delay predictions, and presenting route recommendations using automatically generated data without requiring additional input from the user.
+
+## Target Users and Use Cases
+
+| User | Goal of using the dashboard |
+|---|---|
+| Commuters | Checking traffic conditions and delays before traveling |
+| Students / researchers | Observing traffic flow and system performance |
+| City planning / transportation study | Reviewing corridor congestion trends |
+
+Primary Use Case:
+A user opens the dashboard, selects a route or camera, runs AI detection, and immediately receives traffic metrics, delay estimation, and recommended alternative routes without providing data manually.
+
+
+## User Input Requirements
+
+The dashboard is fully operable with minimal interaction.  
+Users do not need to upload data or configure parameters.
+
+Required actions:
+1. Select a camera or route (dropdown)
+2. Click "Run Detection"
+
+All analytics, file generation, metrics visualization and recommendations are automatic.
+
 ---
 
 ##  Features
@@ -84,6 +113,17 @@ Optional future folders
 | `screenshots/` | UI preview for report or submission |
 | `data/`        | For real GTFS/traffic datasets      |
 | `docs/`        | Extended technical documentation    |
+
+## Reproducibility Checklist
+
+[ ] Clone repository  
+[ ] Install requirements  
+[ ] Run `python app.py`  
+[ ] Open dashboard in browser  
+[ ] Click "Run Detection"  
+[ ] metrics.csv auto-generated  
+[ ] Graph + ETA + Delay display active  
+
 
 ##   Dataset + Codebook
 
