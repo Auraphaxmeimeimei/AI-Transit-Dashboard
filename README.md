@@ -123,7 +123,8 @@ Weather refresh: every 10 min
 
 News refresh: every 8 sec
 
-Current Status & Roadmap
+##  Current Status & Roadmap
+
 | Component                            | Status    |
 | ------------------------------------ | --------- |
 | Live camera streaming                | Completed |
@@ -131,7 +132,6 @@ Current Status & Roadmap
 | Traffic visualization chart          | Completed |
 | ETA estimation and delay model       | Completed |
 | Weather + News integration           | Completed |
-| YOLO real traffic detection          | Planned   |
 | GTFS real-time bus integration       | Planned   |
 | Multi-camera grid display            | Planned   |
 
