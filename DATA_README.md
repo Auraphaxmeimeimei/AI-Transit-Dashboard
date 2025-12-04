@@ -32,7 +32,6 @@ No dataset is required beforehand to run the dashboard.
 
 | Future Dataset | Potential Integration |
 |---|---|
-| Live YOLO detection output | Replace simulation values with actual counts |
 | GTFS feed | Real-time bus tracking and ETA inference |
 | Traffic speed sensors if available | Congestion scoring improvement |
 | Historical CSV logs | Long-term performance analytics |
