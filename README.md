@@ -128,7 +128,7 @@ News refresh: every 8 sec
 | Component                            | Status    |
 | ------------------------------------ | --------- |
 | Live camera streaming                | Completed |
-| AI detection simulation（metrics.csv） | Completed |
+| AI detection（metrics.csv） | Completed |
 | Traffic visualization chart          | Completed |
 | ETA estimation and delay model       | Completed |
 | Weather + News integration           | Completed |
