@@ -46,7 +46,7 @@ All analytics, file generation, metrics visualization and recommendations are au
 | Module | Description |
 |---|---|
 | Live Camera Player | Streams official **NY 511 DOT cameras (public access)** |
-| AI Detection Simulation | Generates `metrics.csv` with vehicle counts (no YOLO required to run) |
+| AI Detection Simulation | Generates `metrics.csv` with vehicle counts |
 | Traffic Graph | Auto-refresh every 5s from CSV |
 | ETA Estimation | Basic calculation based on congestion level |
 | Delay Prediction | Forecasts bus delay from traffic density |
