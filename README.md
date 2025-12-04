@@ -70,17 +70,19 @@ Build will auto-launch
 Public dashboard link generated
 
 ##  Project Structure
-AI-Transit-Dashboard/
-├── app.py                     Main dashboard application
-├── requirements.txt           Dependency specification
-├── README.md                  Documentation
-├── metrics.csv                Auto-generated after detection
-└── assets/                    Bus route PNG maps
+Item	Details
+app.py	Main dashboard application
+requirements.txt	Python dependency specifications
+README.md	Documentation file
+assets/	Bus route PNG maps for dashboard display
+metrics.csv	Automatically generated after AI detection run
 
-(Optional folders that can be added if needed)
-screenshots/                   UI demonstration images
-data/                          Future datasets or GTFS feed
-docs/                          Extended documentation reports
+Optional future folders（可选扩展）：
+
+Folder	Purpose
+screenshots/	UI preview for report or submission
+data/	For real GTFS/traffic datasets
+docs/	Extended technical documentation
 
 ##   Dataset + Codebook
 
