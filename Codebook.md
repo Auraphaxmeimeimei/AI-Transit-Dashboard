@@ -9,6 +9,4 @@
 
 Notes:
 1. metrics.csv is generated automatically when AI Detection is triggered.
-2. Data is mock-simulated and does not reflect real-time detected traffic.
-3. Output supports visualization, ETA estimation, delay calculation and advisory models.
-4. When real detection is integrated, new fields such as speed, location, frame index etc. can be appended.
+2. Output supports visualization, ETA estimation, delay calculation and advisory models.
